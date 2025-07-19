@@ -1,7 +1,5 @@
 module AbxGrowthSims
 
-# export ?
-
 using Parameters
 using JLD2
 using ProgressMeter

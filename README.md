@@ -1,0 +1,1 @@
+Library supporting the simulations used in [code for "Limiting translational capacity with antibiotics reveals the tradeoffs of microbial acclimation to fluctuating environments"](https://github.com/codercahol/abx_and_limits_on_acclimation)
